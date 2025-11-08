@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "type": "Thème",
+        "content": "Un personnage nous propose son témoignagne",
+        "author": "Sinsaki"
+    },
+    {
+        "id": 2,
+        "type": "Thème",
+        "content": "Chaque participant fait un plan, qui sera transmis à un autre écrivain du serveur - Objectif : Chacun doit retrouver son plan",
+        "author": "Néophyte"
+    },
+    {
+        "id": 3,
+        "type": "Thème",
+        "content": "Un Crime a eu lieu ! Votre nouvelle sera donc basée sur la résolution du mystère derrière ce crime.",
+        "author": "Sujet M1 — Mystère et boule de crime!"
+    },
+    {
+        "id": 4,
+        "type": "Thème",
+        "content": "Votre nouvelle explorera la thématique de la mémoire !",
+        "author": "Sujet M2 — Où est mon fusil?"
+    },
+    {
+        "id": 5,
+        "type": "Thème",
+        "content": "Votre récit explorera la notion du temps, que ce soit à travers le prisme de la nostalgie, du regret, ou de la possibilité de changer le cours des événements.",
+        "author": "Sujet M3 — L'ombre du sablier."
+    },
+    {
+        "id": 6,
+        "type": "Thème",
+        "content": "L'Oralité",
+        "author": "Sujet M4 — Ecrire pour être entendu."
+    },
+    {
+        "id": 7,
+        "type": "Thème",
+        "content": "La notion de contrainte sera centrale dans votre nouvelle.",
+        "author": "Sujet M5 — Sous contrainte"
+    },
+    {
+        "id": 8,
+        "type": "Thème",
+        "content": "Environnement et relation, Une attention particulière sera apportée sur l'immersion des lieux choisis et des impactes entre l'environnement et les personnages.",
+        "author": "Sujet M6 — Environnement et relationnel."
+    },
+    {
+        "id": 9,
+        "type": "Thème",
+        "content": "Vous devrez écrire une nouvelle... A la façon d'une partie de Cluedo.",
+        "author": "Sujet M7 — Ecrivez votre nouvelle à la façon..."
+    },
+    {
+        "id": 10,
+        "type": "Thème",
+        "content": "Le début de votre nouvelle devra montrer votre protagoniste pris·e par surprise dans une situation inattendue, extraordinaire, cocasse, etc. ",
+        "author": "Sujet M8 — Situation externe"
+    }
+]
