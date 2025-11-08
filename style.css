@@ -72,7 +72,12 @@ section {
     flex-direction: column;
     flex-wrap: wrap;
     margin: 25px auto;
-    width: 90%;
+    max-width: 100%;
+    min-width: 300px;
+}
+
+section p {
+    max-width: 90%;
 }
 
 h3, p {
