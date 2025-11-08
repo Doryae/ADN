@@ -58,5 +58,71 @@
         "type": "Thème",
         "content": "Le début de votre nouvelle devra montrer votre protagoniste pris·e par surprise dans une situation inattendue, extraordinaire, cocasse, etc. ",
         "author": "Sujet M8 — Situation externe"
+    },
+    {
+        "id": 11,
+        "type": "Thème",
+        "content": "Écrire l'histoire d'un mauvais, inhumain, misérable, terrible, odieux personnage.",
+        "author": "Sujet M9 - Le vil mécréant de l'histoire"
+    },
+    {
+        "id": 12,
+        "type": "Thème",
+        "content": "Thème Libre",
+        "author": "Sujet M10 — Liberté"
+    },
+    {
+        "id": 13,
+        "type": "Thème",
+        "content": "L'Anti-Héros.",
+        "author": "Sujet M11 - Confidence pour confidence"
+    },
+    {
+        "id": 14,
+        "type": "Thème",
+        "content": "L'Histoire (avec un grand H) Votre nouvelle devra raconter une période marquante d’une ville/société/empire/civilisation/planète/galaxie (à votre préférence), qui a induit des changements profonds au sein de celle-ci. Ce boulversement pourra aussi bien être une incroyable amélioration, qu'une terrible régression ou destruction, ou tout simplement un nouveau modèle de société, sans que l’on puisse vraiment juger d'un bilan positif ou non. Cela peut se produire dans notre réalité (monde d’aujourd’hui dans un futur proche via une dystopie/utopie) ; dans le passé via une uchronie ; ou bien dans une monde totalement fictif.",
+        "author": "Sujet M12 - Récit historique"
+    },
+    {
+        "id": 15,
+        "type": "Thème",
+        "content": "Carré magique",
+        "author": "Sujet M13 - Carré de l'avent"
+    },
+    {
+        "id": 16,
+        "type": "Thème",
+        "content": "Au commencement...",
+        "author": "Sujet M14 - Au commencement"
+    },
+    {
+        "id": 17,
+        "type": "Thème",
+        "content": "Possession",
+        "author": "Sujet M15 - Possession"
+    },
+    {
+        "id": 18,
+        "type": "Thème",
+        "content": "Vos protagonistes devront plonger dans l'univers d'un jeu de société",
+        "author": "Sujet M16 - Echec et mat"
+    },
+    {
+        "id": 19,
+        "type": "Thème",
+        "content": "Mariage blanc",
+        "author": "Sujet M17 - Mariage blanc"
+    },
+    {
+        "id": 20,
+        "type": "Thème",
+        "content": "Construire une histoire à partir d’une VDM",
+        "author": "Sujet M18 - Mini nouvelle"
+    },
+    {
+        "id": 21,
+        "type": "Thème",
+        "content": "La Cosy Fantasy",
+        "author": "Sujet M19 - Cozy"
     }
 ]
