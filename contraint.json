@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "content": "Menez votre lectorat par le bout du nez en ayant au minimum une fausse piste quant à la découverte derrière ce crime !",
+        "author": "Sujet M1 — Mystère et boule de crime!"
+    },
+    {
+        "id": 2,
+        "content": "Le crime ne doit jamais être nommé distinctement. Vous userez de périphrases pour caractériser la découverte derrière ce crime !",
+        "author": "Sujet M1 — Mystère et boule de crime!"
+    },
+    {
+        "id": 3,
+        "content": "Le.s fusil.s de Tchekhov Votre nouvelle devra contenir un ou plusieurs objet.s faisant office de fusils de Tcheckov.",
+        "author": "Sujet M2 — Où est mon fusil?"
+    },
+    {
+        "id": 4,
+        "content": "L'ellipse narrative Utilisez une ou plusieurs ellipses narratives pour sauter dans le temps. Laissez le lecteur remplir les blancs à travers des indices subtils disséminés dans le récit",
+        "author": "Sujet M3 — L'ombre du sablier."
+    },
+    {
+        "id": 5,
+        "content": "Changement de temps Pour continuer de jouer avec le thème, chaque ellipse doit entrainer un changement de temps de narration qui doit être justifié par le récit. Du passé, au présent. De présent au passé ou même au futur.",
+        "author": "Sujet M3 — L'ombre du sablier."
+    },
+    {
+        "id": 6,
+        "content": "Écrire pour être lu·e Vos nouvelles seront publiées uniquement sous forme audio ! A vous de chercher comment rendre votre texte prenant et percutant sur ce format !",
+        "author": "Sujet M4 — Ecrire pour être entendu."
+    },
+    {
+        "id": 7,
+        "content": "Interdiction d'utiliser la forme négative : 'ne …, … pas, ne … pas, n'… pas, ne … plus, ne … jamais, sans jamais ... etc.'",
+        "author": "Sujet M5 — Sous contrainte"
+    },
+    {
+        "id": 8,
+        "content": "Interdiction d'utiliser la conjonction de coordination : 'et' ",
+        "author": "Sujet M5 — Sous contrainte"
+    },
+    {
+        "id": 9,
+        "content": "Interdiction d'utiliser : ' qui, que, qu'… '",
+        "author": "Sujet M5 — Sous contrainte"
+    },
+    {
+        "id": 10,
+        "content": "Choix du lieux de votre nouvelle Vous devrez choisir un lieu où se déroulera l'ensemble de votre histoire.",
+        "author": "Sujet M6 — Environnement et relationnel."
+    },
+    {
+        "id": 11,
+        "content": "Le schéma relationnel, Vous devrez compléter et respecter les relations établies dans ce shéma",
+        "author": "Sujet M6 — Environnement et relationnel."
+    },
+    {
+        "id": 12,
+        "content": "Schéma narratif imposé Vous devrez écrire une nouvelle qui suis la courbe dramatique imposée.",
+        "author": "Sujet M6 — Environnement et relationnel."
+    },
+    {
+        "id": 13,
+        "content": "Votre nouvelle devra posséder : Un Objet incriminant / Un lieu ou se sera déroulé (ou se déroulera) les événements / Une personne ayant utilisé cet objet incriminant vis à vis d'une tierce personne / Une personne ayant subit une forme d'assaut quelqu'il soit du dit objet incrimant employé par le dit détenteur du re-dit objet incriminant.",
+        "author": "Sujet M7 — Ecrivez votre nouvelle à la façon.."
+    },
+    {
+        "id": 14,
+        "content": "Votre nouvelle devra comporter à minima 4 personnages distinct ! (Victime et Criminel inclus)",
+        "author": "Sujet M7 — Ecrivez votre nouvelle à la façon.."
+    },
+    {
+        "id": 15,
+        "content": "La manière de conter votre nouvelle devra faire allusions à la manière dont se déroule une partie de Cluedo. Des recherches d'indices, des pistes à éliminer ou à creuser, etc...",
+        "author": "Sujet M7 — Ecrivez votre nouvelle à la façon.."
+    },
+    {
+        "id": 16,
+        "content": "Point de vue externe obligatoire tout du long votre nouvelle",
+        "author": "Sujet M8 — Situation externe"
+    },
+    {
+        "id": 17,
+        "content": "Le début de votre nouvelle sera in medias res, c'est-à-dire que votre nouvelle commencera dans l'action.",
+        "author": "Sujet M8 — Situation externe"
+    },
+    {
+        "id": 18,
+        "content": "Votre nouvelle devra comporter un dialogue où votre protagoniste exposera ses pensées, sentiments, émotions, etc. lors d'un monologue externe où iel ne sera pas coupé·e.",
+        "author": "Sujet M8 — Situation externe"
+    },
+    {
+        "id": 19,
+        "content": "Sélection de votre méchant: Piocher votre personnage grâce à la première lettre du pseudonyme d'un membre. [À définir]",
+        "author": "Sujet M9 - Le vil mécréant de l'histoire"
+    },
+    {
+        "id": 20,
+        "content": "Sélection de la situation initiale : Pour connaitre un évènement qui arrive au personnage tiré, faites un jet d'un dès de 12. [Inclure les situations initiales]",
+        "author": "Sujet M9 - Le vil mécréant de l'histoire"
+    },
+    {
+        "id": 21,
+        "content": "Le rectangle / carré magique",
+        "author": "Sujet M9 - Le vil mécréant de l'histoire"
+    },
+    {
+        "id": 22,
+        "content": "Confidence pour confidence : Vous devrez décrire leurs viles pensées & leurs plaisirs coupables en usant du champ lexical de 4 des 5 sens",
+        "author": "Sujet M11 - Confidence pour confidence"
+    },
+    {
+        "id": 23,
+        "content": " 'Vous m'aimez... Mais pas moi !' : Votre histoire devra... Connaître une Bad Ending.",
+        "author": "Sujet M11 - Confidence pour confidence"
+    },
+    {
+        "id": 24,
+        "content": "Si votre nouvelle est racontée par le biais de personnages, les événements les dépasseront totalement et ils ne pourront avoir qu’une influence limitée sur le cours des événements.",
+        "author": "Sujet M12 - Récit historique"
+    },
+    {
+        "id": 25,
+        "content": "Votre histoire devra contenir au moins un flashback.",
+        "author": "Sujet M12 - Récit historique"
+    },
+    {
+        "id": 26,
+        "content": "Pour sortir des dystopies habituelles, nous vous proposont de vous challenger en intégrant un changement de votre société qui ne sera ni clairement bénéfique, ni clairement négatif, tout en étant tout de même d'une très grande importance.",
+        "author": "Sujet M12 - Récit historique"
+    },
+    {
+        "id": 27,
+        "content": "Fusil de Tchekhov qui n’en est pas un : Un élément placé au début de la nouvelle aura une incidence majeure sur la fin de la nouvelle.",
+        "author": "Sujet M14 - Au commencement"
+    },
+    {
+        "id": 28,
+        "content": "L'auteur devra s'auto-imposer une contrainte de son choix",
+        "author": "Sujet M14 - Au commencement"
+    },
+    {
+        "id": 29,
+        "content": "Le personnages possédé n’est pas au courant qu’il est possédé. S’il doit en prendre conscience, cela ne peut se faire qu’à la fin de la nouvelle.",
+        "author": "Sujet M15 - Possession"
+    },
+    {
+        "id": 30,
+        "content": "Votre nouvelle devra posséder deux champs lexicaux disséminés tout du long : un se rapportant à la personne possédée, l’autre à l’entité prenant possession.",
+        "author": "Sujet M15 - Possession"
+    },
+    {
+        "id": 31,
+        "content": "[Dans le cas d'un sujet sur un jeu] Les règles devront se comprendre de manière implicite : vous n’avez pas à les expliquer directement",
+        "author": "Sujet M16 - Echec et mat"
+    },
+    {
+        "id": 32,
+        "content": "Votre nouvelle devra donner la part belle aux émotions des protagonistes car ils devront passer par cinq des émotions suivantes : Joie, Tristesse, Peur, Dégout, Colère, Surprise",
+        "author": "Sujet M17 - Mariage blanc"
+    },
+    {
+        "id": 33,
+        "content": "Une des Émotions suivantes doivent être totalement absente : Joie, Tristesse, Peur, Dégout, Colère, Surprise",
+        "author": "Sujet M17 - Mariage blanc"
+    },
+    {
+        "id": 34,
+        "content": "Votre texte sera écrit au présent.",
+        "author": "Sujet M18 - Mini nouvelle"
+    },
+    {
+        "id": 35,
+        "content": "La nouvelle doit être aussi courte que possible : attention au poids des phrases, à leur structure, à la concision.",
+        "author": "Sujet M18 - Mini nouvelle"
+    },
+    {
+        "id": 36,
+        "content": "Votre nouvelle devra contenir au moins un passage poétique",
+        "author": "Sujet M19 - Cozy"
+    },
+    {
+        "id": 37,
+        "content": "Intégrez un personnage réputé exceptionnel, pour des capacités ou accomplissements qu'il est le seul à pouvoir réaliser... mais anodins et dérisoires.",
+        "author": "Sujet M19 - Cozy"
+    },
+    {
+        "id": 38,
+        "content": "Point de vue interne, au singulier, à la première personne",
+        "author": "Sujet M20 - Surprise surprise"
+    },
+    {
+        "id": 39,
+        "content": "Utiliser [X] des 5 sens",
+        "author": "Sujet M21 - Traits brumeux"
+    },
+    {
+        "id": 40,
+        "content": "Un élément (Voix, Journaux, Personnages...) dira/diront TOUJOURS la vérité, mais le personnage principal refusera SYSTEMATIQUEMENT de le/les croire.",
+        "author": "Sujet M22 - La voix"
+    },
+    {
+        "id": 41,
+        "content": "Tous vos protagonistes seront des enfants",
+        "author": "Sujet M23 - Problème insurmontable"
+    },
+    {
+        "id": 42,
+        "content": "L'un des protagoniste sera convaincu que LA solution sera de...rédiger une charte",
+        "author": "Sujet M23 - Problème insurmontable"
+    },
+    {
+        "id": 43,
+        "content": "Votre texte derva comporter toutes les lettres de l'alphabet",
+        "author": "Sujet M23 - Problème insurmontable"
+    },
+    {
+        "id": 44,
+        "content": "Un personnage doit mourir dans la première phrase de votre nouvelle.",
+        "author": "Sujet M24 - Creepypasta"
+    },
+    {
+        "id": 44,
+        "content": "Vous devrez intégrer un ou plusieurs membres de la modération de l'atelier à votre légende.",
+        "author": "Sujet M24 - Creepypasta"
+    },
+    {
+        "id": 45,
+        "content": "Le protagoniste devra être en étant de handicap/maladie, et 'témoigner' sur ce que cela implique pour lui",
+        "author": "Sinsaki"
+    }
+]
